@@ -1,6 +1,9 @@
 # mail-cs50
 Mail Project from CS50
-
+![image](https://github.com/yannip1234/mail-cs50/blob/master/images/Screenshot_2021-01-19%20Mail(1).png)
+![image](https://github.com/yannip1234/mail-cs50/blob/master/images/Screenshot_2021-01-19%20Mail(2).png)
+![image](https://github.com/yannip1234/mail-cs50/blob/master/images/Screenshot_2021-01-19%20Mail.png)
+![image](https://github.com/yannip1234/mail-cs50/blob/master/images/inbox.png)
 ## Specification
 
 Using JavaScript, HTML, and CSS, complete the implementation of your single-page-app email client. You must fulfill the following requirements:
