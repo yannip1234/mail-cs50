@@ -66,6 +66,9 @@ function load_message(id, mailbox) {
     document.querySelector('#time-header').innerHTML = "";
     document.querySelector('#body').innerHTML = "";
 
+    //Reset button
+    document.querySelector('#archive').style.display = '';
+
 
     fetch(`/emails/${id}`)
         .then(response => response.json())
