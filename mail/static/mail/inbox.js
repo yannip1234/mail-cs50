@@ -129,7 +129,7 @@ function load_message(id, mailbox) {
                 }
             } else {
                 try {
-                    document.querySelector('#archive').remove();
+                    document.querySelector('#archive').style.display = 'none';
                 } catch (ex){}
 
             }
